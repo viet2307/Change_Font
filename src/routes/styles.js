@@ -6,9 +6,8 @@ export const indexStyle = StyleSheet.create({
        flex: 1,
    },
     center_vertical: {
-        flex: 1,
         flexDirection: 'column',
-        // alignItems: 'center',
+        alignItems: 'center',
         justifyContent: 'center',
     },
     text: {
