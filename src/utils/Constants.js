@@ -11,4 +11,4 @@ export const FontsName = {
 export const FontFamily = [
     {fontFamily: 'ZhiMangXing-Regular'},
     {fontFamily: 'SigmarOne-Regular'},
-]
+];
